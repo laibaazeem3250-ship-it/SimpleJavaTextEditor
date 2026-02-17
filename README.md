@@ -1,4 +1,4 @@
-# Simple Java Text Editor 📝
+<img width="1919" height="997" alt="Screenshot 2026-02-17 130400" src="https://github.com/user-attachments/assets/07211b24-e851-42e7-8bac-075a093f19e5" /># Simple Java Text Editor 📝
 
 ---
 
@@ -31,6 +31,12 @@ It was developed in Eclipse IDE as part of Java GUI practice.
 - 🪟 Window and Help menu  
 
 ---
+## 📸 Application Preview
+
+Here is how my Simple Java Text Editor looks when running:
+
+(![Uploading Screenshot 2026-02-17 130400.png…])
+
 
 ## 🛠 Technologies Used
 
