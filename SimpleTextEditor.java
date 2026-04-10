@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+
 public class SimpleTextEditor extends JFrame {
 	
 	private JTextArea tx;
