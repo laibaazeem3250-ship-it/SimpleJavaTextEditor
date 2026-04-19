@@ -2,6 +2,7 @@
 
 ---
 
+
 ## 🎯 Today's Progress
 
 Built this Simple Java Text Editor in class today.  
